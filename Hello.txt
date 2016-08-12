@@ -1,4 +1,4 @@
-print(“Hello”);
-print(“Hi”);
-print(“Hi friends”);
-print(“How do you do”);
+print(“Hello;”);
+print(“Hi;”);
+print(“Hi friends”;);
+print(“How do you do”;);
